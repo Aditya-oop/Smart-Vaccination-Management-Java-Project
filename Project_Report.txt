@@ -1,0 +1,61 @@
+
+SMART VACCINATION MANAGEMENT SYSTEM
+Project Mini Report
+
+1. INTRODUCTION
+The Smart Vaccination Management System is a Java-based desktop application developed to simplify the management of patient vaccination information. The system provides a graphical user interface through which an administrator can register patients, record vaccine doses and schedule vaccination appointments.
+
+2. PROBLEM STATEMENT
+Manual vaccination records can be difficult to organize, search and update. Important vaccination dates and appointments may be missed. The proposed system provides a centralized digital interface for maintaining these records.
+
+3. OBJECTIVES
+• To register and maintain patient information.
+• To record vaccination doses and dates.
+• To schedule vaccination appointments.
+• To provide quick access to vaccination information.
+• To demonstrate Java OOP and GUI development.
+• To support SDG 3: Good Health and Well-being.
+
+4. TECHNOLOGIES USED
+• Programming Language: Java
+• GUI: Java Swing
+• Data Storage: Java Serialization
+• IDE: Visual Studio Code / IntelliJ IDEA / Eclipse
+• JDK: 17 or newer
+
+5. MODULES
+A. Login Module
+Provides basic administrator authentication.
+
+B. Dashboard Module
+Displays total patients, vaccination records, appointments and vaccinated patient count.
+
+C. Patient Module
+Allows registration, searching and deletion of patient records.
+
+D. Vaccination Module
+Stores vaccine name, dose, vaccination date and next due date.
+
+E. Appointment Module
+Stores appointment date, time, vaccine and appointment status.
+
+6. OOP CONCEPTS USED
+• Classes and Objects
+• Encapsulation through data classes
+• Abstraction through separate application modules
+• Inheritance through Swing components and the document listener
+• Polymorphism through overridden methods
+
+7. SDG ALIGNMENT
+The project is aligned with SDG 3 – Good Health and Well-being. Vaccination is an important part of preventive healthcare, and a digital management system can help organize vaccination information and appointments.
+
+8. FUTURE SCOPE
+• MySQL database
+• Cloud backup
+• SMS/email reminders
+• QR vaccination certificates
+• Doctor/admin role management
+• Reports and analytics
+
+9. CONCLUSION
+The Smart Vaccination Management System provides a functional and user-friendly Java GUI for managing vaccination-related information. It demonstrates practical use of Java programming, object-oriented programming and GUI development while addressing a healthcare-related problem.
